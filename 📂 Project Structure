@@ -1,0 +1,9 @@
+restaurant-management/
+│
+├── admin.py           # Admin dashboard logic
+├── features.py        # Insights & analytics page
+├── main.py            # Application entry point
+├── restaurant.db      # SQLite database
+├── bg.jpg             # Background image
+├── requirements.txt   # Python dependencies
+├── README.md          # Documentation
